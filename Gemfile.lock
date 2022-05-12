@@ -50,7 +50,7 @@ PLATFORMS
 
 DEPENDENCIES
   activerecord (~> 6.1)
-  faker (~> 2.19)
+  faker (= 2.19)
   pry
   rake
   require_all
@@ -58,4 +58,4 @@ DEPENDENCIES
   sqlite3 (~> 1.4)
 
 BUNDLED WITH
-   2.2.30
+   2.2.33
